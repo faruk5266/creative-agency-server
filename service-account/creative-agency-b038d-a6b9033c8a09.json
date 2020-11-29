@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "creative-agency-b038d",
+  "private_key_id": "a6b9033c8a09e360cc45e7968b3ff948f92e7da7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQYTiRM3UaAhvk\n8g8dWLCMeZH5zcLJBIQyL8xNrEfIBzsifNQET32CK9fR7FFPN+3sj1CeVqarOXCD\n1npog1kwx+FQN482U0iHD8naMwGDvk9zlpE8lQ0Tf5nSSe1YqzWYp98oNT2cQZUa\niux2G8Vxy+G+Wemttl0kpKwR+03uuUhEk8Bj7nmXBRCFEyaCziDFLc6W0AJeXn7O\nbXjedgzuc6A5HWjbptiKuvIrc8Xmjyf8gSQaawIb0V7Qhoy+hkrwEVhS8NNvJn9n\nL1MIEut4h9C6gJwCoQD9JfJWcB9uAKSI63cIwGm8ZiVwqGufqyKCHdlirLJTs/py\nB+zjOGi3AgMBAAECggEAOKblTthNnTBxqJKwipfX4q77L/VkdoL+qkCmHl445kys\nD/rCKJTWTyML8tOTDg4InjeX7yFaEbqeoySf8G2FrEXp65N5btwcC98Omb9E22Bs\nBZNxlr93m4yIm4KljpLTm3xXbIwDilITgxA6+5cnEOFqyUm3jxGNF8lDuWSN7lsP\nl1ECKR4kxiqwExYRNjPMzAyNUIo4/Z5sLx2hHbxSG4pMzoDfQTinj0We8Ia9rg7G\n2Ie+3xqV/lOgGjH9H7n1prmZDYDdJ1pqb0dpEdbejxIAd5Jo9o1tNlRO8W0Nmmnt\nFw9sFPjmvRK8Js61cUortMGKeHx258W02DhZXbOj8QKBgQDBKuZpZUNY+5IxRiAG\nAFP7fm2jYOl6a6oWXzZxgfCxZqiGVVGm4bqtt3vCsfNZ3bMb49Xncz5TXtjDSdpx\nrrIBJbqzOkwKnGc8Zh1Xroh75xMnam0jh7jfMpgGriKugCqZDfq8OnzYvo78coie\nlc03M65RzFkncxLqoHmvP0CEZwKBgQC/V8BFB5NC2YEOPwDIS4PWPpQ7vrpR+SGv\n14VuxW2hk2gp/n+okehgZ3ik426SC42HCJxFOxe0y/US/SbeX50LMONm7kQGQkXz\ngDzwhWiQjMvOzYvTx1AqPE5TIhulP5Jx3lEeUBVZCMbBw1NuNNeDWypvIdzIzPtO\n9uPnR5XHMQKBgBodTqEZC43QFOeMb2/gQ3pQkUnxJB9kxs3XeWjHBF83Xbkrd6p0\nAeTSVWzw2dFgY4J1vslXjyl+PRfJuDp+P5pgG2l3jCgzFNHZjEX6VoFJsBE4FiEj\njB7AnETq7c1hjmC6vxcLYS18NaBza3zlC6VW2047riHjML9/inPivTopAoGBAID0\nGthq6ow7GgcH3vceLZPOSQia2ec1B8cCcSLeW6xxM9pZcp+g9gNCuMQnovU6Y/+F\nhgwCb0+hxWEuy2tC9Qv9vsQ4ABBXydz5qBhRUM9alGCjloD76sMMMZ1Fd2w/E+s5\n8WGEh16h05Hymd/ELRqR7l9HawzJWPU23xGX5RGBAoGACh4yUGsOzoSoBB/Abz2J\n5MDUuD4KPMGU/NBC+QdylufLu71GzOq0Nac0oXWog8K1Q4jJuJC4cILp0ll62v3F\n8YBXzdCgfB7o0FcdyJEZise4X9SCJ5R/YgM2Blt06XrFM/7sQ26WTfjF+0CO+F23\nB7gFs3BiT5rfNU4xPUsUBNA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "creative-agency-acct@creative-agency-b038d.iam.gserviceaccount.com",
+  "client_id": "110977674648562206780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/creative-agency-acct%40creative-agency-b038d.iam.gserviceaccount.com"
+}
